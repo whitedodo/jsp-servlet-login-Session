@@ -18,6 +18,7 @@ JSP/Servlet으로 세션(Session)방식으로 로그인 처리에 대해서 작�
 ##### (This project introduces how to use Session based on JSP/Servlet.)
 
 ### 2. 시연(Demonstration)
+##### 1. JSP/Servlet - MVC2 Session (회원 로그인 프로젝트), https://youtu.be/EcvmX4vKCJo, Accessed by 2020-09-25, Last Modified 2020-09-25.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-25, Last Modified .
